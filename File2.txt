@@ -1,5 +1,10 @@
 Change Request 1-
 for updating changes in file1
-Change - file to check push to remote server
-Change - from team member on remote server
-Change - made by rteam mate on remote server for testing
+
+
+
+
+change1 -> file to check push to remote server
+change2 -> from team member on remote server
+Change3 -> at local master
+Change4 -> made by rteam mate on remote server for testing
